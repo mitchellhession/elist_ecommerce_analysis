@@ -15,3 +15,5 @@ I used Pivot Tables, conditional formatting, aggregation functions, and statisti
 
 # Technical Analysis
 Sample of pivot table used for seasonality insights is below. More detailed analysis is contained in the Excel workbook in this repository.
+
+<img width="849" alt="pivot_chart_sample" src="https://github.com/mitchellhession/elist_ecommerce_analysis/assets/131897547/4a3cf5ea-93fa-4016-addc-bafacb69aad8">
