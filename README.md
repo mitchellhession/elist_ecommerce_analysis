@@ -14,6 +14,10 @@ I used Pivot Tables, conditional formatting, aggregation functions, and statisti
 **Loyalty Program:** The team recommends continuing with the loyalty program, as these customers make more purchases on average and spend an average of $30 more in 2022 per purchase even with their program discount. 
 
 # Technical Analysis
-Sample of pivot table used for seasonality insights is below. More detailed analysis is contained in the Excel workbook in this repository.
+Sample of pivot table used for seasonality insights is below. More detailed analysis is contained in the Excel Analysis Excel workbook in this repository.
 
 <img width="923" alt="pivot_chart_sample" src="https://github.com/mitchellhession/elist_ecommerce_analysis/assets/131897547/95e3d7db-42c5-4eb7-b632-c436e6b6b6be">
+
+Sample of SQL query reults used for top marketing channel insights is below. More detailed analysis is contained in the SQL Analysis Excel workbook in this repository.
+
+<img width="487" alt="query_result_sample" src="https://github.com/mitchellhession/elist_ecommerce_analysis/assets/131897547/ad882223-d543-4c11-8330-a2d36da9e1e0">
