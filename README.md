@@ -11,7 +11,13 @@ I used Pivot Tables, conditional formatting, aggregation functions, and statisti
 
 **Products:** Apple Airpods Headphones consistently ranked as the best-selling product, and in 2022, the top three products accounted for 70% of sales, while the Bose Headphones had the lowest number of sales across most years. 
 
-**Loyalty Program:** The team recommends continuing with the loyalty program, as these customers make more purchases on average and spend an average of $30 more in 2022 per purchase even with their program discount. 
+**Loyalty Program:** The team recommends continuing with the loyalty program, as these customers make more purchases on average and spend an average of $30 more in 2022 per purchase even with their program discount.
+
+**Quarterly Trends:** Across 2019-2022, Elist sold an average of 89 Macbooks to North American customers each quarter, with average quarterly sales of $143.5K. The average order price of these Macbooks was $1600.
+
+**Refund Trends:** The Macbook Air Laptop gets refunded the most at 4.2%. However, the Apple Airpod Headphones have the highest count of refunds, at 657 refunds across all years. The gaming monitor and Macbook Air have 395 and 118 refunds, respectively. 
+
+**Quarterly Trends:** Across all regions, direct has the highest number of orders. However, direct is not really a marketing channel as it indicates customers coming directly to the site. After direct, email has the second-highest number of orders in each region. 
 
 # Technical Analysis
 Sample of pivot table used for seasonality insights is below. More detailed analysis is contained in the Excel Analysis Excel workbook in this repository.
