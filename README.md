@@ -26,4 +26,4 @@ Sample of pivot table used for seasonality insights is below. More detailed anal
 
 Sample of SQL query reults used for top marketing channel insights is below. More detailed analysis is contained in the SQL Analysis Excel workbook in this repository.
 
-<img width="487" alt="query_result_sample" src="https://github.com/mitchellhession/elist_ecommerce_analysis/assets/131897547/ad882223-d543-4c11-8330-a2d36da9e1e0">
+<img width="346" alt="query_result_sample" src="https://github.com/mitchellhession/elist_ecommerce_analysis/assets/131897547/edc9a85d-ec41-4556-b81a-20b9605a2c35">
