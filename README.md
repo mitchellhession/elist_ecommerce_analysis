@@ -24,6 +24,10 @@ Sample of pivot table used for seasonality insights is below. More detailed anal
 
 <img width="923" alt="pivot_chart_sample" src="https://github.com/mitchellhession/elist_ecommerce_analysis/assets/131897547/95e3d7db-42c5-4eb7-b632-c436e6b6b6be">
 
-Sample of SQL query reults used for top marketing channel insights is below. More detailed analysis is contained in the SQL Analysis Excel workbook in this repository.
+Sample of SQL query reults used for Macbook sales insights is below. More detailed analysis is contained in the SQL Analysis Excel workbook in this repository.
 
 <img width="346" alt="query_result_sample" src="https://github.com/mitchellhession/elist_ecommerce_analysis/assets/131897547/edc9a85d-ec41-4556-b81a-20b9605a2c35">
+
+Sample of SQL pivot table reults used for Macbook sales insights is below. More detailed analysis is contained in the SQL Analysis Excel workbook in this repository.
+
+<img width="921" alt="query_pivot_table_sample" src="https://github.com/mitchellhession/elist_ecommerce_analysis/assets/131897547/fc84c413-b2c2-4d29-bb62-736488f25de9">
