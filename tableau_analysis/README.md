@@ -1,5 +1,5 @@
 # Zoom Subscriptions Analysis (2020-2021)
-Analyzing Zoom subscription trends from 2020-2021. Interactive Tableau dashboard can be found [here](LINK). 
+Analyzing Zoom subscription trends from 2020-2021. Interactive Tableau dashboard can be found [here]([LINK](https://public.tableau.com/views/elist_ecommerce_dashboards/OrdersRefunds?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)). 
 
 <img>
 
