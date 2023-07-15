@@ -12,13 +12,12 @@ Analyzing order and refund trends from 2019-2022. Interactive Tableau dashboard 
 ### Product Refunds:
 - In 2020 Airpods saw a significant spike in total refunds. However, the Macbook Air was the third most refunded product, costs Elist a record high of 22k of total refund costs in September 2020.
 
-### Plan Region:
+### Regional Sales:
 - During the peak-COVID months in early 2020, North America made up just over half of monthly sales, and most of the spike in email marketing channels was contained to this region. 
 
 ## Recommendations & Next Steps
-- Investigate why Enterprise plans exhibit a steep dip in summer months and expand this analysis to include more years to examine whether this trend is COVID-related or consistent across time. Is there a product feature we can implement to combat this dip?
-- Yearly plans have an outsized-impact on bookings, so consider adding trials or promotions to improve the dip in yearly plans.
-- While regional trends have remained relatively consistent, EMEA shows the most volatility - investigate whether there are features or promos to help make this region more stable. 
+- Investigate why all product sales exhibit a steep dip in September and expand this analysis to include more years to examine whether this trend is COVID-related or consistent across time. Is there a product feature we can implement to combat this dip?
+- While regional trends have remained relatively consistent, EMEA showed positive resistance to market trends in March 2021 - investigate variables that increased sales in this region while all other regions decreased. 
 
 
 
